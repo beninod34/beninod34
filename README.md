@@ -1,6 +1,6 @@
 # Hi, I'm Benino 👋
 
-Software Developer based in Wayne, NJ. I build automation tools, desktop apps, and full-stack systems — currently shipping production software at a credit union while finishing my B.S. in Computer Science at NJIT (Dec 2026).
+Software Developer based in Wayne, NJ. I build automation tools, desktop apps, and full-stack systems — currently shipping production software at UBT Federal Credit Unon after finishing my B.S. in Computer Science at NJIT
 
 ---
 
